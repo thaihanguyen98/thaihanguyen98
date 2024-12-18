@@ -14,7 +14,7 @@ My focus areas include **front-end development** and the **React framework**.
 </ul>
 
 ### Projects Done
-You can explore my latest web development projects on my [GitHub](#).
+You can explore my latest web development projects on my Github account.
 
 ### Skills
 I have expertise in the following technologies and tools:
