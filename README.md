@@ -7,9 +7,9 @@ My focus areas include **front-end development** and the **React framework**.
 
 ### Key Points About Me:
 <ul>
-<li>🧠 I'm actively learning **Front-end Development**, **React Framework** and **TypeScript**.</li>
-<li>🤝 I'm open to collaborating on **web application projects**.</li>
-<li>🌍 I'm currently based in **Sydney, Australia**.</li>
+<li>🧠 I'm actively learning Front-end Development, React Framework and TypeScript.</li>
+<li>🤝 I'm open to collaborating on web application projects.</li>
+<li>🌍 I'm currently based in Sydney, Australia.</li>
 <li>📚 I'm constantly learning new skills and striving for progress. </li>
 </ul>
 
